@@ -50,6 +50,7 @@ cout<< iteratif ( bil,  a,  b,  c);
 
 return 0;
 }
+(https://raw.githubusercontent.com/MutiaAdindaUtami/Praktikum8/master/Latihan1/foto1.png)
 
 
 ##Soal2.cpp
@@ -110,12 +111,12 @@ Pseudecode
 #include
 #include
 void balik(char *k){
-if(*k!=”){
+if(*k!=â€){
 balik(&k[1]);
 cout<
 }
 }main(){
-char *kata=”....”;--> //untuk masukan kata
+char *kata=â€....â€;--> //untuk masukan kata
 balik(kata);
 cout<
 return 0;
