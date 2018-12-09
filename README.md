@@ -143,5 +143,7 @@ int main()
 
 }
 
+(https://raw.githubusercontent.com/MutiaAdindaUtami/Praktikum8/master/Latihan3/foto3.png)
+
 
 # Praktikum8
