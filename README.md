@@ -50,6 +50,7 @@ cout<< iteratif ( bil,  a,  b,  c);
 
 return 0;
 }
+
 (https://raw.githubusercontent.com/MutiaAdindaUtami/Praktikum8/master/Latihan1/foto1.png)
 
 
@@ -97,6 +98,8 @@ main()
  cin >> b;
  cout << " AxB = " << kali_rekursif(a, b) << endl;
 }
+
+(https://raw.githubusercontent.com/MutiaAdindaUtami/Praktikum8/master/Latihan2/poto2.png)
 
 
 ##soal3.cpp Alur Argoritma
